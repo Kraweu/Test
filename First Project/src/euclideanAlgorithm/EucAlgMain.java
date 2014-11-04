@@ -1,6 +1,6 @@
 package euclideanAlgorithm;
 
-public class EuclidianAlgorithm {
+public class EucAlgMain {
 
 	public static void main(String[] args) {
 		//
