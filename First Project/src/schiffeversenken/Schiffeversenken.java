@@ -1,4 +1,4 @@
-package schffeversenken;
+package schiffeversenken;
 
 public class Schiffeversenken {
 
